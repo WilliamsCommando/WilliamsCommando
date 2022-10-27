@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamsCommando
 - 👀 I’m interested in an internship in the direction of frontend
-- 🌱 I'm currently studying at school 21
+- 🌱 I'm currently studying at school 21 in a Kazan
 - 📫 How to reach me: @maxiin bud - telegram
 
 <!---
